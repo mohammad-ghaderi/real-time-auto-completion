@@ -1,0 +1,23 @@
+{
+  "name": "real-time-auto-completion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mohammad-ghaderi/real-time-auto-comletion.git"
+  },
+  "keywords": [
+    "auto",
+    "completion"
+  ],
+  "author": "mohammad-ghaderi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammad-ghaderi/real-time-auto-comletion/issues"
+  },
+  "homepage": "https://github.com/mohammad-ghaderi/real-time-auto-comletion#readme",
+  "description": ""
+}
